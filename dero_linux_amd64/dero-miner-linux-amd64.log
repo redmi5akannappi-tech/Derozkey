@@ -32,3 +32,6 @@
 {"L":"DEBUG","T":"2025-10-18T17:06:17.056Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"292159","height":6088398}
 {"L":"DEBUG","T":"2025-10-18T17:11:05.894Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"189885","height":6088412}
 {"L":"DEBUG","T":"2025-10-18T17:11:44.699Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"189885","height":6088414}
+{"L":"DEBUG","T":"2025-10-18T17:20:29.166Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"47849","height":6088444}
+{"L":"DEBUG","T":"2025-10-18T17:20:34.322Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"47849","height":6088444}
+{"L":"DEBUG","T":"2025-10-18T17:27:53.589Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"37710","height":6088467}
