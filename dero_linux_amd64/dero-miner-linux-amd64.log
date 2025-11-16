@@ -1,28 +1,16 @@
-{"L":"INFO","T":"2025-11-16T05:52:29.237Z","N":"miner","C":"dero-miner/miner.go:138","M":"DERO Stargate HE AstroBWT miner : It is an alpha version, use it for testing/evaluations purpose only."}
-{"L":"INFO","T":"2025-11-16T05:52:29.237Z","N":"miner","C":"dero-miner/miner.go:139","M":"Copyright 2017-2021 DERO Project. All rights reserved."}
-{"L":"INFO","T":"2025-11-16T05:52:29.237Z","N":"miner","C":"dero-miner/miner.go:140","M":"","OS":"linux","ARCH":"amd64","GOMAXPROCS":4}
-{"L":"INFO","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:141","M":"","Version":"3.5.5-142.DEROHE.STARGATE+13082025"}
-{"L":"DEBUG","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:143","M":"","Arguments":{"--bench":false,"--daemon-rpc-address":"dero.rabidmining.com:10300","--debug":false,"--help":false,"--mining-threads":"16","--testnet":false,"--version":false,"--wallet-address":"dero1qyp3s50hrkq9k3gnhjegx977v26w4y6g8up2yuag84hz802f3dpc6qgxg65dk"}}
-{"L":"INFO","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:147","M":"","MODE":"mainnet"}
-{"L":"INFO","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:177","M":"Mining threads is more than available CPUs. This is NOT optimal","thread_count":16,"max_possible":4}
-{"L":"INFO","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:205","M":"System will mine to \"dero1qyp3s50hrkq9k3gnhjegx977v26w4y6g8up2yuag84hz802f3dpc6qgxg65dk\" with 16 threads. Good Luck!!"}
-{"L":"INFO","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:407","M":"connecting to ","url":"wss://dero.rabidmining.com:10300/ws/dero1qyp3s50hrkq9k3gnhjegx977v26w4y6g8up2yuag84hz802f3dpc6qgxg65dk"}
-{"L":"DEBUG","T":"2025-11-16T05:53:34.329Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218307}
-{"L":"DEBUG","T":"2025-11-16T05:53:47.349Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218308}
-{"L":"DEBUG","T":"2025-11-16T05:53:55.584Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218308}
-{"L":"DEBUG","T":"2025-11-16T05:53:57.271Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218308}
-{"L":"DEBUG","T":"2025-11-16T05:54:18.562Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218310}
-{"L":"DEBUG","T":"2025-11-16T05:54:25.140Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218311}
-{"L":"DEBUG","T":"2025-11-16T05:57:05.718Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"107524","height":6218318}
-{"L":"DEBUG","T":"2025-11-16T06:01:21.252Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"75693","height":6218334}
-{"L":"DEBUG","T":"2025-11-16T06:04:16.437Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"129659","height":6218342}
-{"L":"DEBUG","T":"2025-11-16T06:12:14.408Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"121942","height":6218360}
-{"L":"DEBUG","T":"2025-11-16T06:13:43.998Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"710714","height":6218365}
-{"L":"DEBUG","T":"2025-11-16T06:18:50.677Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"410516","height":6218381}
-{"L":"DEBUG","T":"2025-11-16T06:27:53.583Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"56942","height":6218411}
-{"L":"DEBUG","T":"2025-11-16T06:28:10.295Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"56942","height":6218412}
-{"L":"DEBUG","T":"2025-11-16T06:31:56.127Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"142506","height":6218423}
-{"L":"DEBUG","T":"2025-11-16T06:32:06.322Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"142506","height":6218424}
-{"L":"DEBUG","T":"2025-11-16T06:32:07.555Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"142506","height":6218424}
-{"L":"DEBUG","T":"2025-11-16T06:32:54.734Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"1114065","height":6218426}
-{"L":"DEBUG","T":"2025-11-16T06:40:43.939Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"308137","height":6218453}
+{"L":"INFO","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:138","M":"DERO Stargate HE AstroBWT miner : It is an alpha version, use it for testing/evaluations purpose only."}
+{"L":"INFO","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:139","M":"Copyright 2017-2021 DERO Project. All rights reserved."}
+{"L":"INFO","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:140","M":"","OS":"linux","ARCH":"amd64","GOMAXPROCS":4}
+{"L":"INFO","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:141","M":"","Version":"3.5.5-142.DEROHE.STARGATE+13082025"}
+{"L":"DEBUG","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:143","M":"","Arguments":{"--bench":false,"--daemon-rpc-address":"dero.rabidmining.com:10300","--debug":false,"--help":false,"--mining-threads":"16","--testnet":false,"--version":false,"--wallet-address":"dero1qyp3s50hrkq9k3gnhjegx977v26w4y6g8up2yuag84hz802f3dpc6qgxg65dk"}}
+{"L":"INFO","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:147","M":"","MODE":"mainnet"}
+{"L":"INFO","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:177","M":"Mining threads is more than available CPUs. This is NOT optimal","thread_count":16,"max_possible":4}
+{"L":"INFO","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:205","M":"System will mine to \"dero1qyp3s50hrkq9k3gnhjegx977v26w4y6g8up2yuag84hz802f3dpc6qgxg65dk\" with 16 threads. Good Luck!!"}
+{"L":"INFO","T":"2025-11-16T07:57:24.732Z","N":"miner","C":"dero-miner/miner.go:407","M":"connecting to ","url":"wss://dero.rabidmining.com:10300/ws/dero1qyp3s50hrkq9k3gnhjegx977v26w4y6g8up2yuag84hz802f3dpc6qgxg65dk"}
+{"L":"DEBUG","T":"2025-11-16T07:57:41.490Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218693}
+{"L":"DEBUG","T":"2025-11-16T07:58:06.832Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218695}
+{"L":"DEBUG","T":"2025-11-16T07:58:18.258Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218696}
+{"L":"DEBUG","T":"2025-11-16T07:58:38.610Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218697}
+{"L":"DEBUG","T":"2025-11-16T07:58:42.746Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218697}
+{"L":"DEBUG","T":"2025-11-16T07:58:55.635Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218698}
+{"L":"DEBUG","T":"2025-11-16T08:00:30.374Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"115104","height":6218702}
