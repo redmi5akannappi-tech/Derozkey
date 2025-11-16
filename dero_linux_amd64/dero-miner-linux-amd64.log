@@ -7,3 +7,10 @@
 {"L":"INFO","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:177","M":"Mining threads is more than available CPUs. This is NOT optimal","thread_count":16,"max_possible":4}
 {"L":"INFO","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:205","M":"System will mine to \"dero1qyp3s50hrkq9k3gnhjegx977v26w4y6g8up2yuag84hz802f3dpc6qgxg65dk\" with 16 threads. Good Luck!!"}
 {"L":"INFO","T":"2025-11-16T05:52:29.238Z","N":"miner","C":"dero-miner/miner.go:407","M":"connecting to ","url":"wss://dero.rabidmining.com:10300/ws/dero1qyp3s50hrkq9k3gnhjegx977v26w4y6g8up2yuag84hz802f3dpc6qgxg65dk"}
+{"L":"DEBUG","T":"2025-11-16T05:53:34.329Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218307}
+{"L":"DEBUG","T":"2025-11-16T05:53:47.349Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218308}
+{"L":"DEBUG","T":"2025-11-16T05:53:55.584Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218308}
+{"L":"DEBUG","T":"2025-11-16T05:53:57.271Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218308}
+{"L":"DEBUG","T":"2025-11-16T05:54:18.562Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218310}
+{"L":"DEBUG","T":"2025-11-16T05:54:25.140Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"20000","height":6218311}
+{"L":"DEBUG","T":"2025-11-16T05:57:05.718Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"107524","height":6218318}
